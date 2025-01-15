@@ -1,0 +1,15 @@
+# ninja log v6
+5	311	7586507905917258	build.ninja	bbe764368d79f0db
+41	1113	7586507906730179	CMakeFiles/MarioDeFII.dir/Colissions.cpp.obj	d09c04a5d96ca483
+21	1726	7586507906519821	CMakeFiles/MarioDeFII.dir/Enemies.cpp.obj	addd646c073a6ec4
+124	1817	7586507907553395	CMakeFiles/MarioDeFII.dir/Sounds.cpp.obj	d5505a51a44f17c9
+29	1850	7586507906605046	CMakeFiles/MarioDeFII.dir/Colectibles.cpp.obj	db9f1030777db478
+109	1952	7586507907403804	CMakeFiles/MarioDeFII.dir/Game.cpp.obj	f37021068b0449b5
+66	2171	7586507906975660	CMakeFiles/MarioDeFII.dir/Loader.cpp.obj	49c5f0d1fda6b8b
+80	2251	7586507907106021	CMakeFiles/MarioDeFII.dir/Menus.cpp.obj	45f1bca52efdcd1e
+14	2313	7586507906449495	CMakeFiles/MarioDeFII.dir/Map.cpp.obj	e452cd7f8b318a6d
+54	2323	7586507906845375	CMakeFiles/MarioDeFII.dir/Mario.cpp.obj	5dab777268aa22e
+94	2594	7586507907253361	CMakeFiles/MarioDeFII.dir/MapEditor.cpp.obj	a4c6a4170f123d50
+5	7319	7586507906369430	CMakeFiles/MarioDeFII.dir/main.cpp.obj	310161a5046e4f12
+5	1509	7586508223915456	CMakeFiles/MarioDeFII.dir/Map.cpp.obj	e452cd7f8b318a6d
+1510	2076	7586508238967518	MarioDeFII.exe	7289a9f0c91bf3a5

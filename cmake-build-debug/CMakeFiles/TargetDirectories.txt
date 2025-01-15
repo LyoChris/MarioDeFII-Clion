@@ -1,0 +1,3 @@
+C:/Users/User/CLionProjects/MarioDeFII/cmake-build-debug/CMakeFiles/MarioDeFII.dir
+C:/Users/User/CLionProjects/MarioDeFII/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/CLionProjects/MarioDeFII/cmake-build-debug/CMakeFiles/rebuild_cache.dir
